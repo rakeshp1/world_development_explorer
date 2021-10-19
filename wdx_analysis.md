@@ -16,15 +16,15 @@
 # Introduction:
 - Economic growth is an increase in the production of goods and services in an economy. Economic growth is commonly measured in terms of the increase in aggregated market value of   additional goods and services produced, using estimates such as GDP.
 # Goods and Service Sector contribution to Economy growth:
- ![](Goods and services.png)
+ ![](https://github.com/rakeshp1/world_development_explorer/blob/main/graphs/Goods%20and%20services.png)
 # Manufacturing Sector contribution to Economy growth:
- ![](manufacturing.png)
+ ![](https://github.com/rakeshp1/world_development_explorer/blob/main/graphs/manufacturing.png)
 # Agriculture Sector contribution to Economy growth:
- ![](Agriculture.png)
+ ![](https://github.com/rakeshp1/world_development_explorer/blob/main/graphs/Agriculture.png)
 # Industrial Sector contribution to Economy growth:
- ![](industry.png)
+ ![](https://github.com/rakeshp1/world_development_explorer/blob/main/graphs/industry.png)
 # Service Sector contribution to Economy growth:
- ![](trade.png)
+ ![](https://github.com/rakeshp1/world_development_explorer/blob/main/graphs/trade.png)
 
 
 
